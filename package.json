@@ -1,0 +1,16 @@
+{
+  "name": "telegrabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "request": "^2.86.0",
+    "socks5-https-client": "^1.2.1"
+  }
+}
