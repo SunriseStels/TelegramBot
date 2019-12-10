@@ -1,6 +1,6 @@
 # Telegram bot
 
-## bot can use sock5 proxy
+## bot can use socks5 proxy
 For that you need: 
 1. Download [Tor Browser](https://www.torproject.org/download/)
 2. Open the torcc file with a text editor (Found in Tor Browser\Browser\TorBrowser\Data\Tor)
