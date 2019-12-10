@@ -13,4 +13,5 @@ ExitNodes {NL}
 StrictNodes 1
 SocksPort 127.0.0.1:9050
 ```
+4. Start Tor Browser
 [![](https://sun9-54.userapi.com/c854028/v854028290/164932/qumrVX8WdGc.jpg)]()
