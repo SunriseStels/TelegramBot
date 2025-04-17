@@ -14,7 +14,7 @@ const bot = new TelegramBot(token,{
         agentClass: Agent,
         agentOptions: {
             socksHost: 'localhost',
-            socksPort: 3000
+            socksPort: 8080
         }
     }
 });
